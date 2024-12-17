@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 # Please check the check-list
 # - 1. Bios WOL is enable
 # - 2. wakeonlan is installed
